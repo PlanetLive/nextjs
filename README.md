@@ -13,6 +13,6 @@ Add yourself to the [copilot waitlist](https://github.com/features/copilot/signu
 
 ## nextjs
 
-The content in the current repository is built from the following 
-[Setup steps](https://vercel.com/guides/nextjs-prisma-postgres) using Node.js, Next.js, 
+The content in the current repository is built from these 
+[setup steps](https://vercel.com/guides/nextjs-prisma-postgres) using Node.js, Next.js, 
 Prisma, and PostgreSQL (or MySQL) with TypeScript.
