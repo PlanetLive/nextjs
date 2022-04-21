@@ -2,10 +2,10 @@
 
 Our EarthDay Project Goal:
 
-1. Use NextJS with Prisma to display the content of public folders.  
+1. Use NextJS with Prisma to display the content of a public folder.  
 (From GitHub, Google Drive, Dropbox, OneDrive, etc.)
-
-2. Work on integrations with other Earth Day projects.
+2. Find and add A.I processes driven by the file types.
+3. Work on integrations with other Earth Day projects.
 
 ## GitHub Copilot
 
