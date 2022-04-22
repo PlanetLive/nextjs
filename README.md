@@ -2,8 +2,7 @@
 
 Our EarthDay Project Goals:
 
-1. Use NextJS with Prisma to display the content of public folders.  
-(From GitHub, AWS S3, Google Drive, Dropbox, OneDrive, etc.)
+1. Display the content of public folders (from GitHub, AWS S3, Google Drive, Dropbox, OneDrive, etc.)
 2. Add display processes that are automatically driven by the file types (image rotation, video display, etc.).
 
 ## GitHub Copilot
@@ -22,17 +21,19 @@ Prisma, and PostgreSQL (or MySQL) with TypeScript.
 
 [Details](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-photos-view.html)
 
-## Uploading files to S3 Buckets from a browser
+## Uploading Files to S3 Buckets from a Browser
 
 Allowing external users to securely and directly upload files to Amazon S3
 
 [Details](https://aws.amazon.com/blogs/storage/allowing-external-users-to-securely-and-directly-upload-files-to-amazon-s3/)
 
 
+<!--
 ## AWS Toolkit - Work with S3 Buckets
 
 [Connect to an AWS Account](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/key-tasks.html#key-tasks-s3)
 
-## Batch upload files to S3
+## Batch upload files to S3 using command
 
 Using AWS Command Line Interface (CLI) to [access Amazon S3](https://aws.amazon.com/getting-started/hands-on/backup-to-s3-cli/)
+-->
